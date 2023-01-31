@@ -1,5 +1,10 @@
-# Tableau_Projects
+# Superstore Dashboard
 
-This is a GitHub repo for all my Tableau Projects and Dashboards. Please click on specific folder to know their details.
+I have developed a simple dashboard from the superstore dataset, which is a standard dataset from the tableau server.
 
-Liked it? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/niteesh-chanabasanavar/).
+Click [here](https://public.tableau.com/app/profile/niteesh.chanabasanavar/viz/SuperstoreExecutiveDashboard_16751085163690/ExecutiveDashboard) to view the dashboard.
+
+Alternatively, you can see the snapshot of the dashboard below.
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/60603790/215751249-7f14fe77-16c7-4d9b-826f-5ae6dcf43fd6.png' width=700 height=500/>
+</p>
