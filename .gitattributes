@@ -1,4 +1,4 @@
 # Suggests github-linguist to reclassify `.ipynb` files as Python:
-*.ipynb linguist-language=Tableau
+*.twbx linguist-language=Tableau
 # Ignore .jl files
 *.jl linguist-generated	
